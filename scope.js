@@ -6,4 +6,5 @@ function details(){
 console.log(president);
 console.log(primeMinister);
 var primeMinister = "Sheikh Hasina";
+console.log(primeMinister);
 details();
